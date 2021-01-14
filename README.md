@@ -10,4 +10,4 @@ _Steps tested on an Ubuntu 20.04 server deployed on an AWS EC2 instance: should 
 - Change into directory `docker` using `cd docker`
 - To build the docker image from the Dockerfile, run `sudo docker build -t <image-name>:<tag> .` (Do not forget the '.')
 - To start up the docker container and make it accessible on a preferred port, run `sudo docker run -p <preffered-localhost-port>:1234 -d <image-name>:<tag>`
-- Go to localhost:<preffered-localhost-port> to access the webpage
+- Go to `localhost:<preffered-localhost-port>` to access the webpage
