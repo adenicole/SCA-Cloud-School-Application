@@ -3,7 +3,6 @@
 ## Exercise 1 Solution ##
 The following steps can be carried out to test this project on your local environment:
 _Steps tested on an Ubuntu 20.04 server deployed on an AWS EC2 instance: should work on most Unix based OSes_
-
 _Got to https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04 to install docker or google for your specific OS_
  
 - Clone the repo using `git clone https://github.com/adenicole/SCA-Cloud-School-Application.git`
